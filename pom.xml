@@ -54,7 +54,7 @@
   </build>
 
   <scm>
-    <developerConnection>scm:git:git@github.com:ksttsk/jk.git</developerConnection>
+    <developerConnection>scm:git:https://github.com/ksttsk/test.git</developerConnection>
     <tag>SampleWebApp123-1.0</tag>
   </scm>
 
